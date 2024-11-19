@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: vector-database-gorcery
+Version: 0.1.0
+Summary: Example of creating a chroma vector database with grocery products.
+Author: Lukas Niederhäuser

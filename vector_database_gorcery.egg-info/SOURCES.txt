@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/__init__.py
+vector_database_gorcery.egg-info/PKG-INFO
+vector_database_gorcery.egg-info/SOURCES.txt
+vector_database_gorcery.egg-info/dependency_links.txt
+vector_database_gorcery.egg-info/top_level.txt
