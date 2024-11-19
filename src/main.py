@@ -1,4 +1,3 @@
-import os
 from src.create_database import main as create_data_base_main
 from src.data_embedding import main as data_embedding_main
 
